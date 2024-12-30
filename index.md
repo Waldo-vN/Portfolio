@@ -4,4 +4,4 @@ youtubeId: dQw4w9WgXcQ
 ---
 This is my portfolio.
 
-{% youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.youtubeId %}
